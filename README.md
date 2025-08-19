@@ -32,9 +32,10 @@ Do **NOT** use it on networks you do not own or have explicit permission to test
 ## 🚀 Usage
 ```bash
 python ARPKill.py <victim ip> <gateway ip>
-
+```
 ---
 
 ## 1️⃣ Install dependencies
 ```bash
 pip install scapy
+```
